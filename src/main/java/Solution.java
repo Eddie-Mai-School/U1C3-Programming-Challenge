@@ -81,7 +81,7 @@ public class Solution {
 
     public String info() {
         //implement code here
-        return "This calculator is a model TI-84 with id 1001";
+        return "This calculator is a model " + calcModel + " with id " + idNumber;
     }
 
 }
